@@ -53,5 +53,6 @@ std::vector<std::string> TriviaSet::getQuestionVector()
 int TriviaSet::getDecade()
 {
     return decade;
+    //std::cout << decade << std::endl;
 }
 

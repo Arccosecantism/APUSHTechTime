@@ -20,6 +20,10 @@ public:
 
 private:
     void setScoreString();
+    void stringDecade();
+    void setGoodCodeForString(std::string str);
+    int translateDateToCode(int date);
+
 
     AnswerManager answerMan;
     QuestionManager questionMan;
@@ -28,13 +32,21 @@ private:
     ofTexture WinScreen;
     ofTrueTypeFont defaultFont;
     std::vector<TriviaSet> QASetTexts;
+
     int delayCounter;
     int setCounter;
     int answered;
-    int threeTimePause;
+
+    bool setDelay;
+
     int score;
     int posScore;
+
     bool setScoreAlready;
     std::string scorestr;
+    std::string decadeStr;
     bool won;
+
+    int goodCode;
+
 };

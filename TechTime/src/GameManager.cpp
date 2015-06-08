@@ -28,7 +28,7 @@ GameManager::GameManager()
         std::cout << "failed to load image WinScreen" << std::endl;
     }
 
-    defaultFont.loadFont("AlexandriaFLF.ttf", 40);
+    defaultFont.loadFont("AlexandriaFLF.ttf", 35);
 
     fillQATexts();
 
@@ -36,18 +36,19 @@ GameManager::GameManager()
     setAllText(setCounter);
     delayCounter = -1;
     answered = 0;
-    threeTimePause = 0;
+    setDelay = false;
     won = false;
     score = 0;
     posScore = 0;
     setScoreAlready = false;
     setScoreString();
+    stringDecade();
 }
 
 void GameManager::fillQATexts()
 {
-    int aborder = 25;
-    int qborder = 25;
+    int aborder = 35;
+    int qborder = 30;
     std::string questiontex = "";
     std::string answertex = "";
     std::string line;
@@ -74,6 +75,7 @@ void GameManager::fillQATexts()
                 {
 
                     QA = 0;
+
                     QASetTexts[counter].addQuestionText(narrowString(questiontex, questionMan.getDimensions(0).x - 2 * qborder, false));
                     questiontex = "";
                     firstline = true;
@@ -130,7 +132,7 @@ void GameManager::fillQATexts()
             if (line[0] == 'Q' and line[1] == 'Q' and QA == 0)
             {
                 QA = 1;
-                decad = 1000*(line[2]-'0') + 100 * (line[3]-'0') + 10 * (line[4]-'0');
+                decad = 1000 * (line[2] - '0') + 100 * (line[3] - '0') + 10 * (line[4] - '0') + (line[5] - '0');
                 QASetTexts[counter].setDecade(decad);
             }
 
@@ -237,7 +239,7 @@ void GameManager::setAllText(int trivset)
     {
         ran = ofRandom(0, listofNums.size());
         RandomNonRepeat.push_back(listofNums[ran]);
-     //   std::cout << RandomNonRepeat[i] << "\t" << ran << std::endl;
+
         listofNums.erase(listofNums.begin()+ran);
     }
     for (int i = 0; i < Asize; i++)
@@ -283,45 +285,98 @@ void GameManager::setAllText(int trivset)
 
 void GameManager::update(ofVec2f& mousePos, bool& clicked, bool& pressed, int& mouseButton)
 {
-    if (delayCounter < 0)
+
+
+    if (delayCounter == 0)
     {
-        answered = answerMan.getAnswered();
-        answerMan.update(mousePos, clicked, pressed, mouseButton);
-        questionMan.update();
-        questionMan.setAnswered(answered);
-        if (threeTimePause > 2)
+        setScoreAlready = false;
+        if (setCounter != 0)
         {
-            delayCounter = 100;
-            ofSetBackgroundAuto(false);
-        }
-        if (answered != 0)
-        {
-            threeTimePause ++;
-            answerMan.setShowCorrect(true);
-            if (setScoreAlready == false)
+           if (answered == 2)
             {
-                setScoreAlready = true;
-                if (answered == 2)
-                {
-                    score ++;
-                }
-                posScore ++;
-                setScoreString();
+                score ++;
             }
+            posScore ++;
+            setScoreString();
+        }
+        if (won == false)
+        {
+            if (setCounter == QASetTexts.size())
+            {
+                won = true;
+            }
+            else
+            {
+                setCounter ++;
+                if (goodCode != 0)
+                {
+                    while (translateDateToCode(QASetTexts[setCounter].getDecade()) != goodCode and setCounter < QASetTexts.size())
+                    {
+                        setCounter ++;
+                    }
+                    if (setCounter == QASetTexts.size())
+                    {
+                        won = true;
+                    }
+                }
+
+
+            }
+
+        }
+        answerMan.resetAnswers();
+        questionMan.resetQuestions();
+        if (won == false)
+        {
+          setAllText(setCounter);setAllText(setCounter);
         }
 
-    }
-    else
-    {
+        stringDecade();
+
         delayCounter --;
     }
 
-};
+    if (won == false)
+    {
+        if (delayCounter > 0)
+        {
+            delayCounter --;
+            if (clicked == true)
+            {
+                delayCounter = 0;
+            }
+        }
+
+        else if (delayCounter < 0)
+        {
+            if (setCounter == 0)
+            {
+                setGoodCodeForString(answerMan.getSelectedText());
+            }
+            answered = answerMan.getAnswered();
+            questionMan.setAnswered(answered);
+
+
+            if (answered != 0)
+            {
+                delayCounter = 100;
+                answerMan.setShowCorrect(true);
+            }
+
+            questionMan.update();
+            answerMan.update(mousePos, clicked, pressed, mouseButton);
+        }
+    }
+ //   std::cout << questionMan.getAnswered() << std::endl;
+
+
+
+
+
+}
 
 void GameManager::draw()
 {
-    if (delayCounter < 0)
-    {
         if (won == false)
         {
             GameBG.draw(ofVec2f(0,0), ofGetWindowWidth(), ofGetWindowHeight());
@@ -329,40 +384,32 @@ void GameManager::draw()
             answerMan.draw();
             questionMan.draw();
             ofSetColor(ofColor::black);
-            defaultFont.drawString("Date: " + intToString(QASetTexts[setCounter].getDecade()), ofGetWindowWidth()*.025, ofGetWindowHeight()*.063);
-            defaultFont.drawString(scorestr, ofGetWindowWidth()*.8, ofGetWindowHeight()*.063);
+            defaultFont.drawString("Date: " + decadeStr, ofGetWindowWidth()*.025, ofGetWindowHeight()*.065);
+            defaultFont.drawString(scorestr, ofGetWindowWidth()*.75, ofGetWindowHeight()*.065);
             ofSetColor(ofColor::white);
         }
         else
         {
             WinScreen.draw(ofVec2f(0,0), ofGetWindowWidth(), ofGetWindowHeight());
         }
+}
+
+void GameManager::stringDecade()
+{
+    int deci = QASetTexts[setCounter].getDecade();
+    std::cout << deci;
+    if (deci == 0)
+    {
+        decadeStr = "N/A";
+    }
+    else if (deci < 1400 or deci > 2020)
+    {
+
+        decadeStr = "????";
     }
     else
     {
-        if (delayCounter == 1 or delayCounter == 0)
-        {
-            setScoreAlready = false;
-            ofSetBackgroundAuto(true);
-            delayCounter = -5;
-            threeTimePause = 0;
-            if (won == false)
-            {
-                if (setCounter == QASetTexts.size() - 1)
-                {
-                    won = true;
-                }
-                else
-                {
-                   setCounter ++;
-                }
-                answerMan.resetAnswers();
-                questionMan.resetQuestions();
-                setAllText(setCounter);
-
-            }
-        }
-        delayCounter --;
+        decadeStr = intToString(deci);
     }
 
 }
@@ -375,3 +422,35 @@ void GameManager::setScoreString()
     cb << posScore;
     scorestr = "Score: " + ca.str() + "/" + cb.str();
 }
+
+ void GameManager::setGoodCodeForString(std::string str)
+ {
+     std::string firstAns[7] = {"All of them!", "Before 1600", "1600s", "1700s", "1800s", "After 1900s", "Extra trivia"};
+    for (int i = 0; i < 7; i++)
+    {
+        if (str == firstAns[i])
+        {
+            goodCode = i;
+        }
+    }
+ }
+
+int GameManager::translateDateToCode(int date)
+ {
+     int newDate = (date / 100) - 14;
+     if (newDate < 1)
+     {
+         newDate = 1;
+     }
+     else if (newDate > 5)
+     {
+         newDate = 5;
+     }
+     else if (date == 0)
+     {
+         newDate = 6;
+     }
+    // std::cout << newDate << std::endl;
+     return newDate;
+
+ }

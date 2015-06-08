@@ -30,12 +30,12 @@ QuestionManager::QuestionManager()
         std::cout << "failed to load image Xmark" << std::endl;
     }
 
-    Question temp(ofVec2f(ofGetWindowWidth()/2, .25 * ofGetWindowHeight()), "TEST", defaultFont, questionBackground,
+    Question temp(ofVec2f(ofGetWindowWidth()/2, .32 * ofGetWindowHeight()), "TEST", defaultFont, questionBackground,
                   CMark, XMark);
     for (int i = 0; i < questionNum; i++)
     {
         questionVector.push_back(temp);
-        questionVector[i].setDimensions(ofVec2f(500,500));
+        questionVector[i].setDimensions(ofVec2f(500 * ofGetWindowWidth() / 1600.0, 500 * ofGetWindowHeight() / 1200.0));
     }
 
     defaultFont.loadFont("AlexandriaFLF.ttf", 24);
@@ -97,6 +97,7 @@ void QuestionManager::update()
     {
         questionVector[i].update();
         questionVector[i].setAnswered(answered);
+       // std::cout << answered << std::endl;
     }
 }
 
