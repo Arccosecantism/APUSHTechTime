@@ -1,11 +1,11 @@
 -n-
 QQ0000
-What time period would you like to answer questions from?
+What time period do you want to start with?
 -.-
 AA
-**All of them!
+**Before 1600s
 -&-
-**Before the 1600s
+**All of them!
 -&-
 **1600s
 -&-
@@ -13,10 +13,13 @@ AA
 -&-
 **1800s
 -&-
-**After 1900
+**After 1900s
 -&-
 **Extra trivia
 -.-
+
+
+
 
 
 -n-
@@ -42,7 +45,6 @@ France and Britain
 -.-
 
 
-
 -n-
 QQ1490
 In the 15th, 16th and 17th centuries, the Spanish sent many soldiers to Central America. What were they called?
@@ -62,7 +64,7 @@ Guerrilleros
 -&-
 Destructores
 -&-
-Caballeria
+Caballería
 -.-
 
 
@@ -107,7 +109,7 @@ Marco Polo
 -&-
 Giovanni da Verrazzano
 -&-
-Pietro Savorgnan di Brazza
+Pietro Savorgnan di Brazzà
 -&-
 Vasco da Gama
 -.-
@@ -116,8 +118,8 @@ Vasco da Gama
 -n-
 QQ1510
 This large branch of Protestantism holds that people can only gain knowledge of
-God through personal revelation. It also holds to the doctrine
-of predestination and was influential among Puritans. What is it?
+God through personal revelation. It also preaches the doctrine
+of predestination and was influential among the Puritans. What is it?
 -.-
 
 AA
@@ -127,7 +129,7 @@ Catholicism
 -&-
 Quakerism
 -&-
-Islam
+Quinnism
 -&-
 Baptism
 -&-
@@ -141,7 +143,7 @@ Trinitarianism
 
 -n-
 QQ1510
-What schism in Christianity occurred in 1517?
+What split in Christianity occurred in 1517?
 -.-
 
 AA
@@ -153,7 +155,7 @@ The Council of Chalcedon
 -&-
 The Council of Ephesus
 -&-
-The creation of Baptism
+The Doctrine of Quinnism
 -&-
 The English Reformation
 -&-
@@ -175,7 +177,7 @@ AA
 -&-
 The Church of Protestantism
 -&-
-The Church of Lutheranism
+The Church of Quinnism
 -&-
 The Church of Jesus Christ of Latter-day Saints
 -&-
@@ -282,7 +284,7 @@ Nez Perce
 -&-
 Ute
 -&-
-Patuxet
+Paxtuxet
 -.-
 
 
@@ -297,7 +299,7 @@ AA
 -&-
 Pequot War
 -&-
-King Philip's War
+King Philip's war
 -&-
 Metacom's War
 -&-
@@ -335,6 +337,27 @@ The White House
 The Senate
 -.-
 
+-n-
+QQ1610
+What was the main crop grown in the southern colonies during the 17th century?
+-.-
+AA
+**Tobacco
+-&-
+Wheat
+-&-
+Rye
+-&-
+Cotton
+-&-
+Coffee
+-&-
+Rice
+-&-
+Squash
+-&-
+Beans
+-.-
 
 -n-
 QQ1620
@@ -342,23 +365,22 @@ These people fled to the New World from Holland in the Netherlands in search of 
 -.-
 
 AA
-**The Pilgrims
+**Pilgrims
 -&-
-The Voyagers
+Voyagers
 -&-
-The Dutch
+Dutch
 -&-
-The Puritans
+ Puritans
 -&-
-The Mayflowers
+Mayflowers
 -&-
 The Roanoke
 -&-
-The Scientologists
+Shakers
 -&-
-The Quakers
+ Quakers
 -.-
-
 
 -n-
 QQ1620
@@ -411,7 +433,7 @@ John Hancock
 
 -n-
 QQ1630
-This person believed that God spoke directly to people, not through the church elders. This person was banished from Massachusetts because of this. This person’s followers, the Antinomianists, went on to found New Hampshire. What was this person’s name?
+This person believed that God spoke directly to people, not through the church elders. This person was banished from Massachusetts because of this. This person's followers, the Antinomianists, went on to found New Hampshire. What was this person's name?
 -.-
 
 AA
@@ -456,10 +478,76 @@ Vermont
 Connecticut
 -.-
 
+-n-
+QQ1640
+This man became the director general of New Amsterdam in 1647. What was his name?
+-.-
+AA
+**Peter Stuyvesant
+-&-
+Peter Minuit
+-&-
+Willem Kieft
+-&-
+Giovanni da Verrazzano
+-&-
+Lars David
+-&-
+Leif Erikson
+-&-
+Peter Brouwer
+-&-
+William David
+-.-
+
+
+-n-
+QQ1670
+What war did New Englanders fight against the Narragansett and Wampanoag Indians, in alliance with Pequots. 
+-.-
+AA
+**King Philip's War
+-&-
+The Pequot War
+-&-
+The Last Anglo-Powhatan War
+-&-
+The Stono Rebellion
+-&-
+The French and Indian War
+-&-
+The Seminole War
+-&-
+Warr's War
+-&-
+The Patuxet War
+-.-
+
+-n-
+QQ1670
+Who rebelled in Bacon's Rebellion?
+-.-
+AA
+**Indentured Servants
+-&-
+Slaves
+-&-
+White men
+-&-
+Indians
+-&-
+Pig Farmers
+-&-
+Englishmen
+-&-
+Loyalists
+-&-
+Patriots
+-.-
 
 -n-
 QQ1680
-What was the main religion of Pennsylvania?
+What was the main religion in Pennsylvania during the colonial period?
 -.-
 
 AA
@@ -475,27 +563,1612 @@ Lutheranism
 -&-
 Shakerism
 -&-
-Jainism
+Quinnism
 -&-
 Mormonism
+-.-
+
+-n-
+QQ1680
+The dominion of New england was created in 1686 to bolster colonial defense, especially against the natives. What was the name of man who was in charge?
+-.-
+AA
+**Sir Edmund Andros
+-&-
+William Bradford
+-&-
+Peter Stuyvesant
+-&-
+King Charles II
+-&-
+Governor Berkeley
+-&-
+Roger Williams
+-&-
+James Wilfred
+-&-
+John Middleton
+-.-
+
+-n-
+QQ1730
+Which religious denomination was affected most greatly by the First Great Awakening?
+-.-
+AA
+**Protestantism
+-&-
+Lutheranism
+-&-
+Mormonism
+-&-
+Scientology
+-&-
+Anglicanism
+-&-
+Quakerism
+-&-
+Satanism
+-&-
+Catholicism
+-.-
+
+-n-
+QQ1730
+This was the largest slave revolt in the British colonies. It happened in North Carolina in 1739. What was it called?
+-.-
+AA
+**The Stono Rebellion
+-&-
+The Revolution of Toussaint l'Overture
+-&-
+The Black Rebellion
+-&-
+The Night Rebellion
+-&-
+The Bradford Uprising
+-&-
+The Pontiac Rebellion
+-&-
+The Jackson Rebellion
+-&-
+Georgio's Rebellion
+-.-
+
+-n-
+QQ1730
+This man was the founder of Georgia. What was his name?
+-.-
+AA
+**James Oglethorpe
+-&-
+John Winthrop
+-&-
+William Bradford
+-&-
+Oliver Cromwell
+-&-
+William Berkeley
+-&-
+Henry Hudson
+-&-
+John McKinley
+-&-
+Jonathan Edwards
+-.-
+
+
+-n-
+QQ1750
+Who was the most famous American scientist?
+-.-
+AA
+**Benjamin Franklin
+-&-
+John Bartram
+-&-
+Sir Isaac Newton
+-&-
+Robert Boyle
+-&-
+Carl Linnaeus
+-&-
+Gregor Mendel
+-&-
+George Washington
+-&-
+Thomas Jefferson
+-.-
+
+-n-
+QQ1750
+What was the name of a group of native tribes who fought with the English the French-Indian War?
+-.-
+AA
+**Iroquois Confederation
+-&-
+Mohawk
+-&-
+Navajo
+-&-
+Omaja
+-&-
+Inuit
+-&-
+Cheyenne
+-&-
+Shawnee
+-&-
+Apache
+-.-
+
+
+
+-n-
+QQ1760
+The pamphlet The Rights of the British Colonies Asserted and Proved by James Otis was an objection to what?
+-.-
+AA
+Townshend Acts
+-&-
+Intolerable Acts
+-&-
+Halfway Covenant
+-&-
+**Stamp Act
+-&-
+Embargo Act
+-&-
+Quebec Act
+-&-
+Quartering Act
+-&-
+Tea Act
+-.-
+
+
+-n-
+QQ1760
+This Native American rebellion was in response to the British presence in the Great Lakes region. What was it called?
+-.-
+AA
+**Pontiac's Rebellion
+-&-
+Stono Rebellion
+-&-
+Last Anglo-Powhatan War
+-&-
+Pequot War
+-&-
+King Phillip's War
+-&-
+The French and Indian War
+-&-
+Shay's Rebellion
+-&-
+Bacon's Rebellion
+-.-
+
+-n-
+QQ1770
+Thomas Paine wrote this pamphlet in support of American independence. What was it called?
+-.-
+AA
+**Common Sense
+-&-
+The Age of Reason
+-&-
+Taxation and Representation
+-&-
+Logical Secession
+-&-
+Independence Now
+-&-
+The Federalist Papers
+-&-
+Oppression and Usurpation
+-&-
+The Declaration of Independence
+-.-
+
+-n-
+QQ1770
+Who was the main author of the Declaration of Independence?
+-.-
+AA
+**Thomas Jefferson
+-&-
+John Adams
+-&-
+George Washington
+-&-
+King Philip the Third
+-&
+Benjamin Franklin
+-&-
+Alexander Hamilton
+-&-
+John Locke
+-&-
+James Madison
+-.-
+
+-n-
+QQ1770
+What treaty ended the Revolutionary War?
+-.-
+AA
+Treaty of Lancaster
+-&-
+Treaty of Albany
+-&-
+Jay's Treaty
+-&-
+Treaty of Paris
+-&-
+**Second Treaty of Paris
+-&-
+Treaty of Peace and Amity with Tripoli
+-&-
+Sixth Treaty of Paris
+-.-
+
+-n-
+QQ1780
+What  or whom did the Articles of Confederation give too little power to?
+-.-
+AA
+**The federal government
+-&-
+The rights of the states
+-&-
+Congress
+-&-
+The military
+-&-
+Southern plantations
+-&-
+Privately owned court systems
+-&-
+Police forces
+-&-
+Western frontiersman
+-.-
+ 
+-n-
+QQ1780
+Who was the first president of the Continental Congress under the Articles of Confederation?
+
+-.-
+AA
+**John Hanson
+-&-
+George Washington
+-&-
+John Adams
+-&-
+John Jay
+-&-
+John Hancock
+-&-
+Henry Middleton
+-&-
+Thomas Mifflin
+-&-
+Cyrus Griffin
+-.-
+
+
+-n-
+QQ1780
+Who was allowed to vote in the first presidential election?
+-.-
+AA
+**Land-owning white men
+-&-
+White men and women
+-&-
+All races and sexes
+-&-
+White men only
+-&-
+Native American men and white men
+-&-
+Englishmen
+-&-
+Slaves
+-&-
+Wealthy politicians
+-.-
+
+
+
+
+
+
+
+
+
+
+
+
+-n-
+QQ1780
+Which document was added to the Constitution to appease anti-federalists?
+-.-
+AA
+**The Bill of Rights
+-&-
+The Declaration of Independence
+-&-
+The Universal Declaration of Human Rights
+-&-
+The Declaration of Sentiments
+-&-
+The Articles of Confederation
+-&-
+The Ten Amendments
+-&-
+The Madison Bill
+-&-
+Macon's Bill
+-.-
+
+-n-
+QQ1780
+Who was the first Secretary of War?
+-.-
+AA
+**Henry Knox
+-&-
+Aaron Burr
+-&-
+Alexander Hamilton
+-&-
+George Washington
+-&-
+John Adams
+-&-
+Thomas Jefferson
+-&-
+Andrew Jackson
+-&-
+James Madison
 -.-
 
 
 
 
 -n-
-QQ1620
-What is Nathan's alleged favorite color? (Hint: the answer is green.)
+QQ1790
+What revolt was started by Pennsylvania farmers who were opposed to a certain federal tax in 1794?
 -.-
 AA
-Blue
+Orlov Rebellion
 -&-
-Red
+**Whiskey Rebellion
 -&-
-Yellow
+American Revolution
 -&-
-Green
+Bacon's Rebellion
 -&-
-**Shrek
+Pontiac's Rebellion
+-&-
+Shay's Rebellion
+-&-
+Berkley's Rebellion
+-&-
+Andros's Rebellion
 -.-
+
+-n-
+QQ1790
+The cotton gin was invented by:
+-.-
+AA
+**Eli Whitney
+-&-
+Cyrus McCormick
+-&-
+Ben Franklin
+-&-
+Thomas Edison
+-&-
+George Washington Carver
+-&-
+Lewis Lattimer
+-&-
+Samuel Morse
+-&-
+Charles Goodyear
+-.-
+
+
+-n-
+QQ1790
+This treaty forced British forces out of the forts in the Northwest Territory. Debts from the Revolutionary war were also disputed. What was the treaty called?
+-.-
+AA
+**Jay's Treaty
+-&-
+Burlingame Treaty
+-&-
+Treaty with Tunis
+-&-
+Treaty of Greenville
+-&-
+Pinckney's Treaty
+-&-
+Treaty of Mortefontaine
+-&-
+Treaty of Ghent
+-&-
+Treaty of Limits
+-.-
+
+
+-n-
+QQ1800
+What supreme court case established judicial review?
+-.-
+AA
+**Marbury v. Maddison
+-&-
+Roe v. Wade
+-&-
+Brown v. Board of Education
+-&-
+Gideon v. Wainwright
+-&-
+Plessy v. Ferguson
+-&-
+Talbot v. Seeman
+-&-
+Fletcher v. Peck
+-&-
+Swift v. Tyson
+-.-
+
+-n-
+QQ1800
+When was the slave trade from Africa to America officially stopped (hint: the bill was passed during the year before it came effective)?
+-.-
+AA
+**1808
+-&-
+1807
+-&-
+1809
+-&-
+1806
+-&-
+1805
+-&-
+1804
+-&-
+1803
+-&-
+1810
+-.-
+
+-n-
+QQ1800
+How much did the United States pay for the Louisiana Territory in the Louisiana purchase?
+-.-
+AA
+**15 million USD
+-&-
+**68 million francs
+-&-
+60 million francs
+-&-
+10 million USD
+-&-
+70 million francs
+-&-
+20 million USD
+-&-
+2 cents per acre
+-&-
+150 million USD
+-.-
+
+
+-n-
+QQ1800
+Who was America at war with from 1801-1805?
+-.-
+AA
+**The Barbary States
+-&-
+Britain
+-&-
+Japan
+-&-
+Spain
+-&-
+Mexico
+-&-
+France
+-&-
+Russia
+-.-
+The Mediterranean States
+-.-
+
+
+
+-n-
+QQ1800
+Where did Lewis & Clark explore?
+-.-
+AA
+**Louisiana Territory
+-&-
+California
+-&-
+Alaska
+-&-
+Texas
+-&-
+Canada 
+-&-
+Spanish Territory
+-&-
+Cuba
+-&-
+Florida 
+-.-
+
+ 
+
+-n-
+QQ1810
+America's most successful battle in the War of 1812 was fought at:
+-.-
+AA
+**New Orleans
+-&-
+Gettysburg
+-&-
+Ghent
+-&-
+Queenston
+-&-
+Plattsburgh
+-&-
+Horseshoe Bend
+-&-
+Baltimore
+-&-
+Bladensburg
+-.-
+
+-n-
+QQ1810
+What were the three parts of Henry Clay's American System?
+-.-
+AA
+**National bank, internal improvements, and protective tariffs.
+-&-
+Tariffs, canals, federal income taxes
+-&-
+National bank, deficit spending, protective tariffs
+-&-
+Deficit spending, protective tariffs, internal improvements
+-&-
+Federal income taxes, deficit spending, protective tariffs
+-&-
+Conservation, national bank, internal improvements
+-&-
+Conservation, deficit spending, protective tariffs
+-&-
+Conservation, deficit spending, internal improvements
+-.-
+
+
+
+-n-
+QQ1810
+Which treaty ended the War of 1812?
+-.-
+AA
+**Treaty of Ghent
+-&-
+Jay Treaty
+-&-
+Hay-Pauncefote Treaty
+-&-
+Treaty of Limits
+-&-
+Treaty of 1818
+-&-
+Rush-Bagot Treaty
+-&-
+Treaty of 1812
+-&-
+Treaty of Cahuenga
+-.-
+
+
+-n-
+QQ1820
+As a result of the Second Great Awakening, this ideology spawned. This ideology was somewhat mystical; its followers believed that knowledge could be obtained from the inner spiritual essence of the individual. What was it called?
+-.-
+AA
+**Transcendentalism
+-&-
+Mormonism
+-&-
+Quinnism
+-&-
+Protestantism
+-&-
+Perfectionism
+-&-
+Idealism
+-&-
+Utopianism
+-&-
+Loyalism
+-.-
+
+
+
+-n-
+QQ1820
+What president's foreign policy was first to state that Europe shouldn't interfere with US affairs?
+-.-
+AA
+**Monroe Doctrine
+-&-
+Truman Doctrine
+-&-
+Eisenhower Doctrine
+-&-
+Kennedy Doctrine
+-&-
+Johnson Doctrine
+-&-
+Nixon Doctrine
+-&-
+Carter Doctrine
+-&-
+Reagan Doctrine
+-.-
+
+-n-
+QQ1840
+Who was known as the “American Moses”?
+-.-
+AA
+**Brigham Young
+-&-
+Joseph Smith
+-&-
+Jesus Christ
+-&-
+Harriet Tubman
+-&-
+Frederick Douglas
+-&-
+Meriwether Lewis
+-&-
+William Clark
+-&-
+QVH UNO!
+-.-
+
+
+
+
+
+-n-
+QQ1840
+Who was president during the Mexican-American War?
+
+-.-
+AA
+**James Polk
+-&-
+Abraham Lincoln
+-&-
+George Washington
+-&-
+Franklin D Roosevelt 
+-&-
+Zachary Taylor
+-&-
+Woodrow Wilson
+-&-
+Ronald Reagan
+-&-
+John Tyler
+-.-
+
+
+-n-
+QQ1850
+Who was the first and only “emperor” of the United States?
+-.-
+AA
+**Joshua Abraham Norton
+-&-
+George Washington
+-&-
+King Philip III
+-&-
+King George II
+-&-
+John Hanson
+-&-
+Garret G. Fagan
+-&-
+Mark Antony
+-&-
+Cody Dobbs
+-.-
+
+
+
+-n-
+QQ1850
+Which Supreme Court case in 1857 decided that African Americans had no claim to citizenship or the ability to file a legal suit in court?
+-.-
+AA
+**Dred Scott v. Sandford
+-&-
+McCulloch v. Maryland
+-&-
+Furman v. Georgia
+-&-
+Lawrence v. Texas
+-&-
+Grutter v. Bollinger
+-&-
+Miranda v. Arizona
+-&-
+Buckley v. Valeo
+-&-
+Reynolds v. Sims
+-.-
+
+
+
+
+
+-n-
+QQ1850
+Who wrote the novel Uncle Tom's Cabin?
+
+-.-
+AA
+**Harriet Beecher Stowe
+-&-
+Harriet Tubman
+-&-
+Thomas Paine
+-&-
+W. E. B. Du Bois
+-&-
+Frederick Douglass
+-&-
+Booker T. Washington
+-&-
+L. Ron Hubbard
+-&-
+Jim Crow
+-.-
+
+-n-
+QQ1860
+Which of these temporarily guaranteed blacks “40 acres and a mule” after the civil war?
+-.-
+AA
+**Sherman's Special Field Orders No. 15
+-&-
+Jim Crow Act
+-&-
+Freedmen's Bureau Bill
+-&-
+Black Codes
+-&-
+Reconstruction Acts
+-&-
+Civil Rights Act of 1866
+-&-
+14th Amendment
+-&-
+Atlanta Compromise
+-.-
+
+
+-n-
+QQ1860
+After which battle did Lincoln issue the Emancipation Proclamation?
+-.-
+AA
+**Antietam
+-&-
+Fredericksburg
+-&-
+Shiloh
+-&-
+Cold Harbor
+-&-
+Gettysburg
+-&-
+Chickamauga
+-&-
+Chancellorsville
+-&-
+Chattanooga
+-.-
+
+
+
+
+-n-
+QQ1860
+The first transcontinental railroad was completed by which railroads?
+
+-.-
+AA
+**Central Pacific and Union Pacific
+-&-
+Western Pacific
+-&-
+Southern Pacific and Union Pacific
+-&-
+Great Northern
+-&-
+Western Pacific and North Western 
+-&-
+Chicago and North Western Railroad
+-&-
+Northern Pacific
+-&-
+Amtrak
+-.-
+
+
+
+-n-
+QQ1880
+Which act distributed 160 acre allotments among individual Indian families?
+-.-
+AA
+Curtis Act
+-&-
+**Dawes Act
+-&-
+Homestead Act
+-&-
+Indian Reservation Act
+-&-
+Indian Reorganization Act
+-&-
+Indian Land Act
+-&-
+Land Act of 1880
+-&-
+Severalty Act
+-.-
+
+-n-
+QQ1890
+What was the first settlement house called?
+-.-
+AA
+**Hull House
+-&-
+House of Burgesses
+-&-
+House of Labor
+-&-
+Toynbee Hall
+-&-
+Neighborhood Guild
+-&-
+Lenox Hill
+-&-
+Henry Street House
+-&-
+House of Representatives
+-.-
+
+
+-n-
+QQ1890
+Who was the only president to serve two non-consecutive terms?
+-.-
+AA
+Andrew Jackson
+-&-
+Ulysses S. Grant
+-&-
+James Garfield
+-&-
+Franklin D. Roosevelt
+-&-
+**Grover Cleveland
+-&-
+Theodore Roosevelt
+-&-
+George Washington
+-&-
+Barack Obama
+-.-
+
+
+
+-n-
+QQ1890
+Who wrote the Gospel of Wealth?
+-.-
+AA
+**Andrew Carnegie
+-&-
+John D. Rockefeller
+-&-
+J. P. Morgan
+-&-
+Henry Ford
+-&-
+John Jacob Astor
+-&-
+Thomas Paine
+-&-
+Oprah Winfrey
+-&-
+Mark Twain
+-.-
+
+
+
+
+-n-
+QQ1900s
+What were businessmen who constructed massive companies by eliminating competition often called by critics?
+
+-.-
+AA
+**Robber barons
+-&-
+Captains of the Industry
+-&-
+Original entrepreneurs
+-&-
+CEO's
+-&-
+Capitalist leaders
+-&-
+Business Tycoon
+-&-
+CIO's
+-&-
+Businessmen
+-.-
+
+
+-n-
+QQ1900
+What president annexed Hawai'i?
+-.-
+AA
+**William McKinley
+-&-
+Grover Cleveland
+-&-
+Andrew Jackson
+-&-
+John Tyler
+-&-
+James Polk
+-&-
+ZacharyTaylor
+-&-
+Theodore Roosevelt
+-&-
+Calvin Coolidge
+-.-
+
+-n-
+QQ1900
+During what time period was the Harlem Renaissance?
+
+-.-
+AA
+**Roaring 20s
+-&-
+Civil War
+-&-
+Revolution
+-&-
+The Flying Forties
+-&-
+The Swingin' Sixties
+-&-
+The Disco Era
+-&-
+The Decade of Decadence
+-&-
+The Turbulent Thirties
+-.-
+
+
+-n-
+QQ1910
+Approximately how many people worldwide died from the Spanish flu?
+-.-
+AA
+1-2 million
+-&-
+5-10 million
+-&-
+20-30 million
+-&-
+50-100 million
+-&-
+150-200 million
+-&-
+100-125 million
+-&-
+250-350 million
+-.-
+
+
+-n-
+QQ1910
+In what year did women gain the constitutional right to vote?
+
+-.-
+AA
+1917
+-&-
+1918
+-&-
+1919
+-&-
+**1920
+-&-
+1921
+-&-
+1911
+-&-
+1910
+-&-
+1964
+-.-
+
+
+-n-
+QQ1920
+President Warren Harding's administration was tarnished by this scandal.
+-.-
+AA
+**Teapot Dome
+-&-
+Credit-Mobilier
+-&-
+Whiskey Ring
+-&-
+Oregon Land Fraud Scandal
+-&-
+Watergate
+-.-
+
+
+
+-n-
+QQ1920
+What was the Scopes Monkey trial about?
+
+-.-
+AA
+**Evolution
+-&-
+Slavery
+-&-
+Civil Rights
+-&-
+Flat earth theory
+-&-
+Communism
+-&-
+William Jennings Bryan
+-&-
+Animal Rights
+-&-
+Miranda Rights
+-.-
+
+
+
+
+
+
+-n-
+QQ1930
+Which sector suffered most as a result of the great depression?
+-.-
+AA
+**Primary sector (Logging, agriculture, mining…)
+-&-
+Secondary Sector (Manufactured goods)
+-&-
+Tertiary Sector (Services)
+-&-
+Quaternary Sector (technology, information...)
+-.-
+
+-n-
+QQ1940
+What brought the US into WWII?
+-.-
+AA
+**Pearl Harbor
+-&-
+The sinking of the Lusitania
+-&-
+Franklin D. Roosevelt
+-&-
+The Zimmermann note
+-&-
+Attacks on our borders
+-&-
+Calls from Russia
+-&-
+JFK's assassination
+-&-
+Civil Rights Movement
+-.-
+
+
+
+
+
+-n-
+
+QQ1940
+What was the code name of the first test of a thermonuclear weapon?
+-.-
+AA
+**Trinity
+-&-
+Fat Man
+-&-
+Manhattan
+-&-
+Little Boy
+-&-
+Skinny Man
+-&-
+Quaternary
+-&-
+Junior
+-&-
+Tsar Bomba
+-.-
+
+-n-
+QQ1950
+The Interstate Highway Act was launched during the presidency of:
+-.-
+AA
+Henry Clay
+-&-
+Franklin Roosevelt
+-&-
+Harry Truman
+-&-
+**Dwight Eisenhower
+-&-
+John Kennedy
+-&-
+Lyndon Johnson
+-&-
+Herbert Hoover
+-&-
+Andrew Jackson
+-.-
+
+
+-n-
+QQ1960 
+American involvement in the Vietnam war began after an American submarine was attacked in the:
+-.-
+AA
+**Gulf of Tonkin
+-&-
+South China Sea 
+-&-
+Gulf of Thailand
+-&-
+Yen Bai Sea
+-&-
+Red River Delta
+-&-
+Kon Tum
+-.-
+
+
+
+
+
+
+
+
+
+
+
+-n-
+QQ1960
+What series of programs was Lyndon B. Johnson famous for?
+-.-
+AA
+**The Great Society
+-&-
+New Deal
+-&-
+New nationalism
+-&-
+New frontier
+-&-
+Square Deal
+-&-
+The New frontier
+-&-
+Second New Deal
+-&-
+Fair Deal
+-.-
+
+-n-
+QQ1960
+What bill did the Selma to Montgomery march cause to be signed?
+-.-
+AA
+Civil Rights Act of 1964
+-&-
+Voting Rights Act of 1965
+-&-
+Civil Rights Act of 1960
+-&-
+Peace Corps
+-&-
+Tax Reduction Act
+-&-
+Higher Education Act
+-&-
+Tet offensive
+-&-
+Native American Citizenship Act of 1960
+-.-
+
+-n-
+QQ1970
+What caused inflation in the ‘70s?
+-.-
+AA
+**Increasing oil and gas prices.
+-&-
+The Vietnam War
+-&-
+Richard Nixon
+-&-
+Increasing taxes to support the poor
+-&- 
+Growing deficit
+-&-
+America becoming a worldwide lender
+-&-
+Declining productivity of American workers
+-&-
+More money printed
+-.-
+
+
+-n-
+QQ1970
+What event led to Richard Nixon's resignation?
+-.-
+AA
+**The Watergate scandal
+-&-
+The Battle of Waterloo
+-&-
+The Hilton scandal
+-&-
+The Vietnam War
+-&-
+The Cold War
+-&-
+The Lewinsky scandal
+-&-
+The VP scandal
+-&-
+The Star Wars scandal
+-.-
+
+
+-n-
+QQ1980
+What scandal happened during Reagan's presidency?
+-.-
+AA
+**Iran Contra Scandal
+-&-
+Teapot Dome Scandal
+-&-
+Abu Ghraib Torture Scandal
+-&-
+Watergate Scandal
+-&-
+Monica Lewinsky Scandal
+-&-
+Gary Conduit Affair
+-&-
+The Plame Affair
+-&-
+The Whiskey Ring
+-.-
+
+
+
+-n-
+QQ1980
+What was the real name of the Reagan-supported missile defense system nicknamed “Star Wars”?
+-.-
+AA
+**The Strategic Defense Initiative
+-&-
+The Nuclear Missile Endeavor
+-&-
+The Ballistic Missile Defense Organization
+-&-
+The Missile Defense Agency
+-&-
+The Homing Overlay Experiment
+-&-
+The Global Shield Organization
+-&-
+The Cheyenne Mountain Experiment
+-&-
+The X-ray Defense Array
+-.-
+
+
+-n-
+QQ1990
+What treaty between the U.S. and the U.S.S.R. limited the number of nuclear weapons each country could hold?
+-.-
+AA
+SALT I
+-&-
+SALT II
+-&-
+SALT III
+-&-
+**START I
+-&-
+START II
+-&-
+START III
+-&-
+SAT I
+-&-
+SAT II
+
+-.-
+
+
+
+-n-
+QQ1990
+Who was the president of the United States when the Cold War ended?
+-.-
+AA
+**George H. W. Bush
+-&-
+George W. Bush
+-&-
+Barack Obama
+-&-
+Bill Clinton
+-&-
+John F. Kennedy
+-&-
+Ronald Reagan
+-&-
+Richard Nixon
+-&-
+Gerald Ford
+-.-
+
+-n-
+QQ2000
+On what date was the attack on the World Trade Center?
+-.-
+AA
+**September 11, 2001
+-&-
+July 4, 2005
+-&-
+September 11, 2002
+-&-
+September 11, 2000
+-&-
+November 9, 2001
+-&-
+November 9, 2000
+-&-
+July 4, 2001
+-&-
+August 11, 2001
+-.-
+
+-n-
+QQ2000
+During which president's term did the national debt increase the most in dollars?
+-.-
+AA
+**Barack Obama
+-&-
+George W. Bush
+-&-
+George H. W. Bush
+-&-
+Bill Clinton
+-&-
+Ronald Reagan
+-&-
+Richard Nixon
+-&-
+Gerald Ford
+-&-
+Jimmy Carter
+-.-
+
+
+
+-n-
+QQ2000
+What anti-terrorism act was passed following 9/11?
+-.-
+AA
+**Patriot Act
+-&-
+NSA
+-&-
+Biological Weapons Anti-terrorism act
+ -&-
+Executive Order 12947
+-&-
+Real ID act
+-&-
+US Antiterrorism and Effective Death Penalty Act
+-&-
+Homeland Security act
+-&-
+Anti-terrorism act of 2001
+-.-
+
+-n-
+QQ2000
+Where was Obama born?
+-.-
+AA
+**Hawai'i
+-&-
+Kenya
+-&-
+The Middle East
+-&-
+The Motherland
+-&-
+Indiana
+-&-
+Illinois
+-&-
+Canada (oh wait, that's Ted Cruz!)
+-&-
+Ireland
+-.-
+
+
+
+
+
+
+
+
+
+
+
+-n-
+QQ0000
+The first human settlement in Hawai'i probably occurred around:
+-.-
+AA
+1300 B.C.
+-&-
+**300 A.D
+-&-
+700 A.D.
+-&-
+1000 A.D.
+-&-
+1100 A.D.
+-&-
+1960
+-&-
+1300 A.D
+-.-
+
+-n-
+QQ0000
+Which war was America involved in the longest that involved conventional warfare?
+-.-
+AA
+**Afghanistan War
+-&-
+Vietnam War
+-&-
+Iraq War
+-&-
+Revolutionary War
+-&-
+Civil War
+-&-
+WWII
+-&-
+Korean War
+-&-
+War of 1812
+-.-
+
+-n-
+QQ0000
+Who was the only president to serve more that two terms?
+-.-
+AA
+**Franklin D. Roosevelt
+-&-
+George Washington
+-&-
+Theodore Roosevelt
+-&-
+George Bush
+-&-
+Barack Obama
+-&-
+John Adams
+-&-
+Abraham Lincoln
+-&-
+John Hanson
+-.-
+
+-n-
+QQ0000
+Who was the only Catholic president?
+-.-
+AA
+Franklin Pierce
+-&-
+**John F. Kennedy
+-&-
+Harry Truman
+-&-
+Barack Obama
+-&-
+Zachary Taylor
+-&-
+William Henry Harrison
+-&-
+Bill Clinton
+-&-
+Chester Arthur
+-.-
+
 -end

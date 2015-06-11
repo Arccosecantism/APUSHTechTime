@@ -385,7 +385,7 @@ void GameManager::draw()
             questionMan.draw();
             ofSetColor(ofColor::black);
             defaultFont.drawString("Date: " + decadeStr, ofGetWindowWidth()*.025, ofGetWindowHeight()*.065);
-            defaultFont.drawString(scorestr, ofGetWindowWidth()*.75, ofGetWindowHeight()*.065);
+            defaultFont.drawString(scorestr, ofGetWindowWidth()*.85, ofGetWindowHeight()*.065);
             ofSetColor(ofColor::white);
         }
         else
@@ -430,6 +430,7 @@ void GameManager::setScoreString()
     {
         if (str == firstAns[i])
         {
+
             goodCode = i;
         }
     }
@@ -437,7 +438,7 @@ void GameManager::setScoreString()
 
 int GameManager::translateDateToCode(int date)
  {
-     int newDate = (date / 100) - 14;
+     int newDate = (date / 100) - 14 + .5;
      if (newDate < 1)
      {
          newDate = 1;
@@ -450,7 +451,7 @@ int GameManager::translateDateToCode(int date)
      {
          newDate = 6;
      }
-    // std::cout << newDate << std::endl;
+    // std::cout << "here" << newDate << std::endl;
      return newDate;
 
  }
